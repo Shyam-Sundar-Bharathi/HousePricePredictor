@@ -167,11 +167,18 @@ body, html {
 height: 100%;
 }
 
-#footer {
+/* #footer {
     max-width: 960px;
     position: absolute;
     left: 30%;
     bottom: 0;
+ } */
+
+ #footer {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
  }
 
  p {
